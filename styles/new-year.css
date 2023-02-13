@@ -141,6 +141,7 @@ border-radius: 8px;
         display: flex;
         position: absolute;
         padding-left: 98px;
+        width: 1400px;
         gap:150px;
         height: 577px;
         left: 0px;
