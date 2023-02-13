@@ -1,0 +1,177 @@
+*{ margin: 10px auto;}
+.header{
+    background-image: url('../images/banner/banner3.png');
+    position: absolute;
+    padding-left: 98px;
+        width: 1400px;
+        height: 810px;
+        left: 0px;
+        top: 0px;
+        margin: 10px auto;
+        margin-bottom: 20px;
+}
+.header-text{
+    text-align: right;
+}
+.header-big-text{
+        position: absolute;
+        height: 200px;
+        left: 800px;
+        text-justify: right;
+        width: 525px;
+        top: 100px; 
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 76px;
+        text-align: right;
+        color: #FFFFFF;
+}
+
+.header-small-text{
+    position: absolute;
+        width: 494px;
+        height: 78px;
+        left: 810px;
+        top: 420px;
+        text-justify: right;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: right;
+        color: #FFFFFF;
+}
+.btn-contact-us{
+    position: absolute;
+        width: 150px;
+        height: 55px;
+        left: 1150px;
+        top: 578px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+        color: #005FAC;
+}
+
+.failure{
+    margin-top: 900px;
+}
+.failure-div {
+    display: flex;
+    gap:30px;
+}
+/* .img-person{
+        width: 569px;
+        height: 723.3px;
+        left: 206px;
+        top: 939px;
+} */
+
+.failure-text{
+    margin-top: 200px;
+    width: 416px;
+    height: 400px;
+}
+
+/* My Plan Styles */
+.my-plan-header{
+position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 705px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+}
+.myplan-list{
+    display: flex;
+    gap:200px;
+    margin: 30px;
+    position: absolute;
+    width: 1100px;
+    height: 202.96px;
+    left: 200px;
+    top: 1889px;
+}
+
+/* Mindset Styles */
+.mindset{
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 180px;
+top: 2221.96px;
+background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('../images/watch.png');
+border-radius: 8px;
+}
+
+.mindset-text-bold{
+    position: absolute;
+        width: 459px;
+        height: 94px;
+        left: 100px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 47px;
+        color: #FFFFFF;
+}
+
+.mindset-button{
+        position: absolute;
+            width: 160px;
+            height: 64px;
+            left: 100px;
+            top: 200px;
+}
+/* Footer Styles */
+.footer{
+        display: flex;
+        position: absolute;
+        padding-left: 98px;
+        gap:150px;
+        height: 577px;
+        left: 0px;
+        top: 2651.96px;  
+        background: #151414;
+}
+
+.future{
+    margin-top: 100px;
+    color: #FFFFFF;
+    width:485px;
+    margin-left: 100px;
+       
+}
+
+
+.subscribe{
+    margin-top: 100px;
+    color: #FFFFFF;
+    width: 325px;
+    margin-left: 350px;
+}
+.email{
+    height: 35px;
+    width: 250px;
+}
+.subscribe-button{
+        width: 170.11px;
+        height: 64px;
+        background: #005FAC;
+        border-radius: 8px;
+        color: #FFFFFF;
+        margin-top: 20px;
+}
